@@ -13,6 +13,8 @@ CREATE TABLE patients (
     blood_type CHAR(3)
 );
 
+-- Import `patients.csv` file
+
 -- ========================
 -- DOCTORS TABLE
 -- ========================
@@ -20,6 +22,8 @@ CREATE TABLE doctors (
     doctor_id VARCHAR(10) PRIMARY KEY,
     doctor_name VARCHAR(100) UNIQUE
 );
+
+-- Import `doctors.csv` file
 
 -- ========================
 -- HOSPITALS TABLE
@@ -31,6 +35,8 @@ CREATE TABLE hospitals (
     hospital_longitude DECIMAL(9,6)
 );
 
+-- Import `hospitals.csv` file
+
 -- ========================
 -- INSURANCE PROVIDERS TABLE
 -- ========================
@@ -38,6 +44,8 @@ CREATE TABLE insurance_providers (
     insurance_id VARCHAR(10) PRIMARY KEY,
     insurance_name VARCHAR(50) UNIQUE
 );
+
+-- Import `insurance_providers.csv` file
 
 -- ========================
 -- ADMISSIONS TABLE
@@ -57,6 +65,8 @@ CREATE TABLE admissions (
     medication VARCHAR(100),
     test_results VARCHAR(50)
 );
+
+-- Import `admissions.csv` file
 
 -- ========================
 -- CREATING FOREIGN KEYS
@@ -110,4 +120,3 @@ SET age_group =
         -- Handle ages outside the 13-89 range
         ELSE 'Others N/A' 
     END;
-
