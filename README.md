@@ -60,7 +60,7 @@ The healthcare system demonstrates strong consistency in cost, treatment quality
 
 ---
 
-**Author Name**: *Maria Egbuna*     
-**Project**: *ONYX Healthcare Analysis*    
-**Liscence**: *MIT Liscence*    
+**Author Name**: *Maria Egbuna*  
+**Project**: *ONYX Healthcare Analysis*  
+**Liscence**: *MIT Liscence*  
 **Date**: *2025-10-13*
