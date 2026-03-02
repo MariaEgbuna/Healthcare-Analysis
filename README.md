@@ -1,4 +1,4 @@
-# 🏥 Hospital Performance & Patient Insights Summary
+# Hospital Performance & Patient Insights Summary
 
 This analysis provides a comprehensive overview of hospital operations, patient demographics, and treatment outcomes across major healthcare facilities.
 
@@ -9,8 +9,6 @@ This analysis provides a comprehensive overview of hospital operations, patient 
 ![E-R_Diagram](<Images/HealthCare Database Schema.png>)
 
 ---
-
-## Exploratory Data Analysis
 
 ## Patient Demographics
 
