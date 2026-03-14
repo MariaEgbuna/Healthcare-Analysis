@@ -55,10 +55,3 @@ This analysis provides a comprehensive overview of hospital operations, patient 
 ## Overall Insight
 
 The healthcare system demonstrates strong consistency in cost, treatment quality, and clinical practices across major hospitals and insurers, with performance variations driven more by patient case complexity than institutional differences.
-
----
-
-**Author Name**: *Maria Egbuna*  
-**Project**: *ONYX Healthcare Analysis*  
-**Liscence**: *MIT Liscence*  
-**Date**: *2025-10-13*
